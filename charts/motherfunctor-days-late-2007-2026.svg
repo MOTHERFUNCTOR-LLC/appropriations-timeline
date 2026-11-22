@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800" role="img" aria-labelledby="title desc">
+<title id="title">Twenty years. Zero on-time finishes.</title>
+<desc id="desc">Bar chart of days late for fiscal years 2007 through 2026. Every year finished late. Average 138 days. Fiscal year 2026 uses April 30; separate immigration-enforcement funding followed June 10.</desc>
+<rect width="1600" height="800" rx="22" fill="#fafafa"/>
+<g font-family="Menlo,DejaVu Sans Mono,monospace" fill="#404040">
+<rect x="55" y="40" width="14" height="20" rx="3" fill="#4cbb17"/>
+<text x="81" y="56" font-size="17" font-weight="bold" letter-spacing="2">MOTHERFUNCTOR</text>
+<text x="55" y="112" font-size="38" font-weight="bold" letter-spacing="-1.4">Twenty years. Zero on-time finishes.</text>
+<text x="55" y="150" font-size="19" fill="#737373">Days late for final annual appropriations · fiscal years 2007–2026</text>
+<rect x="55" y="174" width="380" height="40" rx="20" fill="#4cbb17"/>
+<text x="245" y="200" text-anchor="middle" font-size="17" font-weight="bold">138 days late, on average</text>
+<path d="M75 605.0 H1530" stroke="#d4d4d8" stroke-width="1"/>
+<text x="62" y="610.0" text-anchor="end" font-size="14" fill="#737373">0</text>
+<path d="M75 522.2 H1530" stroke="#d4d4d8" stroke-width="1"/>
+<text x="62" y="527.2" text-anchor="end" font-size="14" fill="#737373">60</text>
+<path d="M75 439.4 H1530" stroke="#d4d4d8" stroke-width="1"/>
+<text x="62" y="444.4" text-anchor="end" font-size="14" fill="#737373">120</text>
+<path d="M75 356.6 H1530" stroke="#d4d4d8" stroke-width="1"/>
+<text x="62" y="361.6" text-anchor="end" font-size="14" fill="#737373">180</text>
+<path d="M75 273.8 H1530" stroke="#d4d4d8" stroke-width="1"/>
+<text x="62" y="278.8" text-anchor="end" font-size="14" fill="#737373">240</text>
+<rect x="90.0" y="415.94" width="42" height="189.06" rx="5" fill="#4cbb17"/>
+<text x="111.0" y="403.94" text-anchor="middle" font-size="15" font-weight="bold">137</text>
+<text x="111.0" y="633" text-anchor="middle" font-size="11">2007</text>
+<rect x="162.0" y="486.32" width="42" height="118.68" rx="5" fill="#4cbb17"/>
+<text x="183.0" y="474.32" text-anchor="middle" font-size="15" font-weight="bold">86</text>
+<text x="183.0" y="633" text-anchor="middle" font-size="11">2008</text>
+<rect x="234.0" y="382.82" width="42" height="222.18" rx="5" fill="#4cbb17"/>
+<text x="255.0" y="370.82" text-anchor="middle" font-size="15" font-weight="bold">161</text>
+<text x="255.0" y="633" text-anchor="middle" font-size="11">2009</text>
+<rect x="306.0" y="495.98" width="42" height="109.02" rx="5" fill="#4cbb17"/>
+<text x="327.0" y="483.98" text-anchor="middle" font-size="15" font-weight="bold">79</text>
+<text x="327.0" y="633" text-anchor="middle" font-size="11">2010</text>
+<rect x="378.0" y="334.52" width="42" height="270.48" rx="5" fill="#4cbb17"/>
+<text x="399.0" y="322.52" text-anchor="middle" font-size="15" font-weight="bold">196</text>
+<text x="399.0" y="633" text-anchor="middle" font-size="11">2011</text>
+<rect x="450.0" y="490.46" width="42" height="114.54" rx="5" fill="#4cbb17"/>
+<text x="471.0" y="478.46" text-anchor="middle" font-size="15" font-weight="bold">83</text>
+<text x="471.0" y="633" text-anchor="middle" font-size="11">2012</text>
+<rect x="522.0" y="362.12" width="42" height="242.88" rx="5" fill="#4cbb17"/>
+<text x="543.0" y="350.12" text-anchor="middle" font-size="15" font-weight="bold">176</text>
+<text x="543.0" y="633" text-anchor="middle" font-size="11">2013</text>
+<rect x="594.0" y="455.96" width="42" height="149.04" rx="5" fill="#4cbb17"/>
+<text x="615.0" y="443.96" text-anchor="middle" font-size="15" font-weight="bold">108</text>
+<text x="615.0" y="633" text-anchor="middle" font-size="11">2014</text>
+<rect x="666.0" y="392.48" width="42" height="212.52" rx="5" fill="#4cbb17"/>
+<text x="687.0" y="380.48" text-anchor="middle" font-size="15" font-weight="bold">154</text>
+<text x="687.0" y="633" text-anchor="middle" font-size="11">2015</text>
+<rect x="738.0" y="497.36" width="42" height="107.64" rx="5" fill="#4cbb17"/>
+<text x="759.0" y="485.36" text-anchor="middle" font-size="15" font-weight="bold">78</text>
+<text x="759.0" y="633" text-anchor="middle" font-size="11">2016</text>
+<rect x="810.0" y="306.92" width="42" height="298.08" rx="5" fill="#4cbb17"/>
+<text x="831.0" y="294.92" text-anchor="middle" font-size="15" font-weight="bold">216</text>
+<text x="831.0" y="633" text-anchor="middle" font-size="11">2017</text>
+<rect x="882.0" y="366.26" width="42" height="238.74" rx="5" fill="#4cbb17"/>
+<text x="903.0" y="354.26" text-anchor="middle" font-size="15" font-weight="bold">173</text>
+<text x="903.0" y="633" text-anchor="middle" font-size="11">2018</text>
+<rect x="954.0" y="415.94" width="42" height="189.06" rx="5" fill="#4cbb17"/>
+<text x="975.0" y="403.94" text-anchor="middle" font-size="15" font-weight="bold">137</text>
+<text x="975.0" y="633" text-anchor="middle" font-size="11">2019</text>
+<rect x="1026.0" y="494.60" width="42" height="110.40" rx="5" fill="#4cbb17"/>
+<text x="1047.0" y="482.60" text-anchor="middle" font-size="15" font-weight="bold">80</text>
+<text x="1047.0" y="633" text-anchor="middle" font-size="11">2020</text>
+<rect x="1098.0" y="484.94" width="42" height="120.06" rx="5" fill="#4cbb17"/>
+<text x="1119.0" y="472.94" text-anchor="middle" font-size="15" font-weight="bold">87</text>
+<text x="1119.0" y="633" text-anchor="middle" font-size="11">2021</text>
+<rect x="1170.0" y="377.30" width="42" height="227.70" rx="5" fill="#4cbb17"/>
+<text x="1191.0" y="365.30" text-anchor="middle" font-size="15" font-weight="bold">165</text>
+<text x="1191.0" y="633" text-anchor="middle" font-size="11">2022</text>
+<rect x="1242.0" y="482.18" width="42" height="122.82" rx="5" fill="#4cbb17"/>
+<text x="1263.0" y="470.18" text-anchor="middle" font-size="15" font-weight="bold">89</text>
+<text x="1263.0" y="633" text-anchor="middle" font-size="11">2023</text>
+<rect x="1314.0" y="364.88" width="42" height="240.12" rx="5" fill="#4cbb17"/>
+<text x="1335.0" y="352.88" text-anchor="middle" font-size="15" font-weight="bold">174</text>
+<text x="1335.0" y="633" text-anchor="middle" font-size="11">2024</text>
+<rect x="1386.0" y="377.30" width="42" height="227.70" rx="5" fill="#4cbb17"/>
+<text x="1407.0" y="365.30" text-anchor="middle" font-size="15" font-weight="bold">165</text>
+<text x="1407.0" y="633" text-anchor="middle" font-size="11">2025</text>
+<rect x="1458.0" y="313.82" width="42" height="291.18" rx="5" fill="#4cbb17"/>
+<text x="1479.0" y="301.82" text-anchor="middle" font-size="15" font-weight="bold">211</text>
+<text x="1479.0" y="633" text-anchor="middle" font-size="11">2026*</text>
+<text x="800" y="665" text-anchor="middle" font-size="15">Fiscal year · measured from its October 1 start</text>
+<text x="55" y="706" font-size="14" fill="#737373">Last regular appropriations measure or full-year continuing resolution. These are not shutdown days.</text>
+<text x="55" y="731" font-size="14" fill="#737373">*2026: April 30 enactment; separate immigration-enforcement funding followed June 10 (252 days late).</text>
+<a href="https://www.congress.gov/crs-product/R47235"><text x="55" y="765" font-size="13" fill="#525252">Sources: Congressional Research Service; enacted public laws, U.S. Government Publishing Office.</text></a>
+</g></svg>

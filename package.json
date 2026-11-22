@@ -1,0 +1,8 @@
+{
+  "name": "motherfunctor-appropriations-timeline",
+  "version": "1.0.0",
+  "private": true,
+  "license": "CC0-1.0",
+  "scripts": {"png": "node scripts/render_png.cjs"},
+  "devDependencies": {"sharp": "0.35.5"}
+}
