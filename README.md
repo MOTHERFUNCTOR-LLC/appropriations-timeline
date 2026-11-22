@@ -2,7 +2,7 @@
 
 **The last on-time finish was fiscal year 1997, completed September 30, 1996.** Every fiscal year since, through 2026, finished late.
 
-A small, reusable dataset and a pair of MotherFunctor charts. Thirty rows. Source links included. No account, API key, or special software needed to use the data.
+A small, reusable dataset and a pair of MOTHERFUNCTOR LLC charts. Thirty rows. Source links included. No account, API key, or special software needed to use the data.
 
 ![Days late for annual appropriations, fiscal years 1997–2026](charts/motherfunctor-days-late-1997-2026.png)
 
@@ -25,9 +25,9 @@ elapsed days = enactment date − October 1 of the preceding calendar year
 days late = max(0, elapsed days)
 ```
 
-This is ordinary date subtraction: enactment on October 1 would produce zero; October 2 would produce one. The operational goal is to have funding in place when the fiscal year begins. The one on-time observation here was enacted September 30, so its elapsed-day count is −1 and its days-late count is zero. This calculation may differ by one day from sources using inclusive counting.
+Nothing fancier than ordinary date subtraction here: enactment on October 1 would produce zero; October 2 would produce one. The operational goal is to have funding in place when the fiscal year begins. The one on-time observation here was enacted September 30, so its elapsed-day count is −1 and its days-late count is zero. This calculation may differ by one day from sources using inclusive counting.
 
-**These are not shutdown days.** Temporary continuing resolutions often kept agencies operating. Nor does a late final measure mean every agency waited until that date: some received full-year funding earlier. Later supplemental appropriations are excluded.
+**These are not (necessarily) shutdown days.** Continuing Resolutions often (but not always) kept agencies operating. A late final measure means that at least one agency was funded after 10/1; some received full-year funding earlier. (Later supplemental appropriations are excluded.)
 
 ### The 2026 footnote matters
 
@@ -37,7 +37,7 @@ The last regular appropriations measure became law April 30, 2026 (211 days afte
 
 - Fiscal years **1998–2026:** 29 consecutive late finishes.
 - Fiscal years **2007–2026:** average elapsed delay **137.75 days**, rounded to **138** on the chart; using June 10 for 2026 yields **139.8 days**.
-- Historical context and identification of the last on-time year: [Congressional Research Service, R47235](https://www.congress.gov/crs-product/R47235).
+- Historical context and identification of the last on-time year: [Congressional Research Service, R47235](https://www.congress.gov/crs-product/R47235). (XOXO CRS!)
 
 Snapshot prepared **November 22, 2026**. Corrections are welcome; include a source and explain any change in the definition of completion.
 
@@ -81,27 +81,10 @@ Change colors and layout in `scripts/build_charts.py`. MotherFunctor’s palette
 
 The current script builds the two published ranges ending in 2026. To extend the dataset to a new year, update the year-range validation, chart filenames, labels, and caveats in the script as well as the CSV. Rerun the scripts and check the resulting images before publishing.
 
-## Put this on GitHub
-
-1. Create an empty public repository, for example `appropriations-timeline`. Leave GitHub’s README and license options unchecked; this package includes both.
-2. Upload **the contents of this folder**, preserving the `data`, `charts`, and `scripts` folders. The README should appear at the repository root.
-3. Commit the upload. Link the repository from your article as **“Get the data, sources, and chart.”**
-
-Or, if you have the GitHub command-line tool installed and signed in, run these commands from this folder:
-
-```sh
-git init
-git add .
-git commit -m "Publish appropriations timeline, sources, and charts"
-gh repo create appropriations-timeline --public --source=. --remote=origin --push
-```
-
-These instructions publish a new repository when **you** run them. This package itself has not been published.
-
 ## Reuse it. Seriously.
 
 To the extent MotherFunctor holds copyright or related rights in this compilation, documentation, chart artwork, and code, they are dedicated to the public domain under **CC0 1.0 Universal**. Copy, modify, redistribute, and use commercially. Attribution is appreciated, **not required**. See [LICENSE](LICENSE) and the [CC0 explanation](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Linked third-party source materials retain their own legal status. CC0 does not grant trademark rights or imply MotherFunctor’s endorsement of a reuse. No government source documents or third-party fonts are bundled.
 
-Optional credit: “Data compilation and charts: MotherFunctor; underlying sources: Congressional Research Service and enacted U.S. public laws.”
+Optional credit: "Data compilation and charts: MOTHERFUNCTOR LLC; underlying sources: Congressional Research Service and enacted U.S. public laws."
